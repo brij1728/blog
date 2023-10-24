@@ -1,6 +1,3 @@
-
 export const NotFound = () => {
-  return (
-    <div>NotFound</div>
-  )
-}
+  return <div>NotFound</div>;
+};

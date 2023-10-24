@@ -6,3 +6,5 @@ npm install --save-dev tsc-watch
 
 npm install express
 npm install --save-dev @types/express
+
+npm install --save-dev eslint prettier eslint-plugin-prettier eslint-config-prettier

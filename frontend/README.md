@@ -7,5 +7,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-npm install react-router-dom@6
-npm install @types/react-router-dom
+
+npm i -s supertokens-auth-react

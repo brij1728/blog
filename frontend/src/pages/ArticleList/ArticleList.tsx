@@ -1,6 +1,3 @@
-
 export const ArticleList = () => {
-  return (
-    <div>ArticleList</div>
-  )
-}
+  return <div>ArticleList</div>;
+};
